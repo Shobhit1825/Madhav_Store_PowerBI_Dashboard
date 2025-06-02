@@ -1,5 +1,4 @@
-# Madhav_Store_PowerBI_Dashboard
-Professional Power Bi Dashboard
+# Madhav_Store_PowerBI_Dashboard Professional Power Bi Dashboard
 This project is a Power BI dashboard for Madhav General Store to track sales, profit, and product performance.
 
 📂 Files Included
