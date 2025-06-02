@@ -2,6 +2,7 @@
 This project is a Power BI dashboard for Madhav General Store to track sales, profit, and product performance.
 
 📂 Files Included
+
 Orders.csv – Order data (date, region, quantity, profit, etc.)
 
 Details.csv – Product info (product name, category, etc.)
